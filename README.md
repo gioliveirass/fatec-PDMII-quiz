@@ -1,6 +1,6 @@
 ## Descrição do projeto
 
-O presente projeto se refere a um questionário desenvolvido durante a aula de Programação para Dispositivos Móveis da FATEC.
+O presente projeto se refere a um carrinho de compras desenvolvido durante a aula de Programação para Dispositivos Móveis da FATEC.
 
 ## Tecnologias utilizadas
 
@@ -13,4 +13,4 @@ As seguintes tecnologias foram utilizadas para o desenvolvimento do projeto:
 
 A seguir é possível visualizar um GIF desmonstrativo:
 
-![checkbox-task](https://github.com/gioliveirass/fatec-PDMII-quiz/assets/78885451/2cbf91dc-f91e-4b6f-8722-1b5a57f29473)
+![market](https://github.com/gioliveirass/fatec-PDMII-quiz/assets/78885451/19466864-dffc-4a0f-bd1c-ed59521bc8c6)
