@@ -1,23 +1,16 @@
-# Flutter app in Zapp!
+## Descrição do projeto
 
-A new Flutter project built with Zapp!
+O presente projeto se refere a um questionário desenvolvido durante a aula de Programação para Dispositivos Móveis da FATEC.
 
-----
+## Tecnologias utilizadas
 
-> To learn how to use Zapp! check out the [documentation](https://docs.zapp.run)
+As seguintes tecnologias foram utilizadas para o desenvolvimento do projeto:
 
-----
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-## Getting Started
+## Desmonstração
 
-This project is a starting point for a Flutter application.
+A seguir é possível visualizar um GIF desmonstrativo:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+![checkbox-task](https://github.com/gioliveirass/fatec-PDMII-quiz/assets/78885451/2cbf91dc-f91e-4b6f-8722-1b5a57f29473)
